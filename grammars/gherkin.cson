@@ -8,7 +8,7 @@
         "name": 'keyword.gherkin'
     }
     {
-        "match": '\\s*(Given|Then|When|And|But|Mas|E|Então|Entao|Quando|Dado|Dada|Dados|Dadas)'
+        "match": '\\s*(Given|Then|When|And|But|Mas|E |Então|Entao|Quando|Dado|Dada|Dados|Dadas)'
         "name": 'support.class.gherkin'
     }
     {
