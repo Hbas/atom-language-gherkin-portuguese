@@ -4,11 +4,11 @@
 "name": 'Gherkin'
 "patterns": [
     {
-        "match": '\\s*(Scenario\\:|Feature\\:|Scenario Outline\\:|Background\\:|Examples\\:)'
+        "match": '\\s*(Scenario\\:|Feature\\:|Scenario Outline\\:|Background\\:|Examples\\:|Examples\\:|Funcionalidade\\:|Característica\\:|Caracteristica\\:|Cenário\\:|Cenario\\:|Esquema do Cenário\\:|Esquema do Cenario\\:|Delineação do Cenário\\:|Delineacao do Cenario\\:|Exemplos\\:|Cenários\\:|Cenarios\\:|Contexto\\:|Cenário de Fundo\\:|Cenario de Fundo\\:|Fundo\\:)'
         "name": 'keyword.gherkin'
     }
     {
-        "match": '\\s*(Given|Then|When|And|But)'
+        "match": '\\s*(Given|Then|When|And|But|Mas|E|Então|Entao|Quando|Dado|Dada|Dados|Dadas)'
         "name": 'support.class.gherkin'
     }
     {
