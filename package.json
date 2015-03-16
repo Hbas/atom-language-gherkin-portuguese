@@ -1,8 +1,8 @@
 {
-  "name": "language-gherkin",
-  "version": "0.3.0",
-  "description": "Gherkin language support in Atom",
-  "repository": "https://github.com/gigapixel/atom-language-gherkin",
+  "name": "language-gherkin-pt",
+  "version": "0.0.0",
+  "description": "Gherkin language support in Atom (English and Portuguese)",
+  "repository": "https://github.com/hbas/atom-language-gherkin-portuguese",
   "license": "MIT",
   "engines": {
     "atom": ">=0.50.0"
