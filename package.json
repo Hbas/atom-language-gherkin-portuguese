@@ -1,6 +1,6 @@
 {
   "name": "language-gherkin-pt",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Gherkin language support in Atom (English and Portuguese)",
   "repository": "https://github.com/hbas/atom-language-gherkin-portuguese",
   "license": "MIT",
